@@ -1,0 +1,12 @@
+SELECT Attempts as attempts, lastlogin FROM loginAttempts WHERE IP = :ip and Username = :username
+SELECT Attempts as attempts, lastlogin FROM loginAttempts WHERE IP = :ip and Username = :username
+SELECT Attempts as attempts, lastlogin FROM loginAttempts WHERE IP = :ip and Username = :username
+SELECT Attempts as attempts, lastlogin FROM loginAttempts WHERE IP = :ip and Username = :username
+Array
+Array
+1
+1
+1
+1
+1
+1
